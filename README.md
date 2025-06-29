@@ -9,8 +9,7 @@ retail-datalake-databricks/
 ├──data/
 │ └── mbta_data_clean.RData
 ├──scripts/
-│ ├── Silver_Layer_Customer_Load.py
-│ └── Silver_Layer_Transactions_Load.py
+│ └── Load_Analysis.R
 ├──output/
 │ ├── Gold_Layer_Products.py
 │ └── Gold_Layer_Orders.py
