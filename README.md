@@ -4,6 +4,20 @@ This project performs exploratory data analysis and regression modeling on MBTA 
 
 ## 📂 Repository Structure
 
+```
+retail-datalake-databricks/
+├──data/
+│ ├── Bronze_Layer_Customer_Load.py
+│ └── Bronze_Layer_Transaction_Load.py
+├──scripts/
+│ ├── Silver_Layer_Customer_Load.py
+│ └── Silver_Layer_Transactions_Load.py
+├──output/
+│ ├── Gold_Layer_Products.py
+│ └── Gold_Layer_Orders.py
+├── README.md
+```
+
 ## 📊 Analysis Overview
 
 - Dummy encoding for categorical variables
