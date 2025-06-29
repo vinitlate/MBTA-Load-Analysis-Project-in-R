@@ -7,8 +7,7 @@ This project performs exploratory data analysis and regression modeling on MBTA 
 ```
 retail-datalake-databricks/
 ├──data/
-│ ├── Bronze_Layer_Customer_Load.py
-│ └── Bronze_Layer_Transaction_Load.py
+│ └── mbta_data_clean.RData
 ├──scripts/
 │ ├── Silver_Layer_Customer_Load.py
 │ └── Silver_Layer_Transactions_Load.py
